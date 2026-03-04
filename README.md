@@ -66,7 +66,7 @@
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/your-username/yolo-annotation-tool.git
+git clone https://github.com/927133951/yolo-annotation-tool.git
 cd yolo-annotation-tool
 ```
 
